@@ -18,17 +18,6 @@ The final tuned model — **Random Forest Regressor** — achieves high accuracy
 - **Residual Mean:** -18.92 → close to zero (low bias)  
 - Example prediction for a Ford Fiesta (2019, Manual, 15k miles, Petrol): **£14,623.92**
 
----
-
-##  Data Visualization
-Below are some key insights from the dataset:
-
-| Chart | Description |
-|-------|-------------|
-| ![Price Distribution](images/price_dist.png) | Price distribution shows a right-skew due to high-end cars |
-| ![Year vs Price](images/year_price.png) | Newer cars tend to have higher prices |
-| ![Mileage vs Price](images/mileage_price.png) | Higher mileage generally reduces price |
-| ![Feature Importance](images/feature_importance.png) | Top predictors: year, mileage, model |
 
 ---
 
@@ -44,8 +33,7 @@ Ford_Car_Price_Prediction/
 ├── Ford_Car_Price_Prediction.ipynb # Main notebook
 ├── ford.csv # Dataset
 ├── requirements.txt # Dependencies
-├── images/ # Visualization images
-└── model/ # Saved trained model (optional)
+└── Readme.md
 
 ## Future Improvements
 Test Gradient Boosting models (XGBoost, LightGBM)
@@ -56,4 +44,4 @@ Add more domain-specific features (e.g., car age, mileage/year)
 
 ## Contact
 Created by LOkesh yede
-🔗 LinkedIn | GitHub
+🔗 LinkedIn [www.linkedin.com/in/lokeshyede]
