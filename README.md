@@ -43,5 +43,6 @@ Apply log transformation to target variable for skew reduction
 Add more domain-specific features (e.g., car age, mileage/year)
 
 ## Contact
-Created by LOkesh yede
+Created by Lokesh yede
+
 🔗 LinkedIn [www.linkedin.com/in/lokeshyede]
